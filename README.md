@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="faswork-logo-light.png" alt="FASWORK logo" width="220">
+  <img src="faswork logo.png" alt="FASWORK logo" width="220">
 </p>
 
 
