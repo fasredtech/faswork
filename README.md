@@ -166,6 +166,14 @@ The intended direction includes:
 
 The sequence and availability of individual capabilities depend on implementation progress, customer requirements, testing, and applicable operational validation.
 
+## Documentation
+
+Explore the FASWORK product documentation:
+
+- [Maintenance Lifecycle](docs/MAINTENANCE_LIFECYCLE.md) — Understand the end-to-end maintenance process, from asset and problem discovery to verification, return to service, closure, and continuous improvement.
+- [Frequently Asked Questions](docs/FAQ.md) — Learn about FASWORK's purpose, intended users, maintenance strategies, organisational support, and product direction.
+- [Product Roadmap](docs/PRODUCT_ROADMAP.md) — Explore the product's intended development direction and future capability areas.
+  
 ## Product Status
 
 FASWORK's complete product vision extends beyond any individual release.
